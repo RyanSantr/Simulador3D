@@ -1,5 +1,5 @@
 # Simulador3D
-Uma plataforma de simulação física 3D desenvolvida em Java/JavaFX, criada por estudantes universitários para ensinar física de forma interativa a alunos do Ensino Médio de escolas públicas.
+Uma plataforma de simulação física 3D desenvolvida em Java/JavaFX, criada por um estudante universitário para ensinar física de forma interativa a alunos do Ensino Médio de escolas públicas.
 
 Desenvolver módulos educacionais de simulação, capacitar professores, realizar oficinas presenciais nas escolas e medir o impacto no aprendizado por meio de testes antes e depois das atividades.
 
