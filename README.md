@@ -3,7 +3,7 @@ Uma plataforma de simulação física 3D desenvolvida em Java/JavaFX, criada por
 
 Desenvolver módulos educacionais de simulação, capacitar professores, realizar oficinas presenciais nas escolas e medir o impacto no aprendizado por meio de testes antes e depois das atividades.
 
-Prioritariamente alunos do 1º ao 3º ano do Ensino Médio de escolas públicas, com professores de física como segundo público estratégico — pois são os multiplicadores do projeto.
+Prioritariamente alunos do 1º ao 3º ano do Ensino Médio de escolas públicas, com professores de física como segundo público estratégico, pois são os multiplicadores do projeto.
 5 módulos de simulação propostos:
 
 Queda Livre e Gravidade
